@@ -4,7 +4,7 @@ Selected papers by **Chen Jing (Toby) Wong** from the MSc Data Science at the Un
 
 | Paper | Programme | Type | Date |
 |---|---|---|---|
-| [Composed Image Retrieval in Fashion Using CLIP-based Multimodal Fusion](edinburgh-msc-data-science/MSc-Dissertation_Composed-Image-Retrieval-in-Fashion.pdf) | MSc Data Science, Edinburgh | Dissertation | Aug 2024 |
+| [Composed Image Retrieval in Fashion Using CLIP-based Multimodal Fusion](edinburgh-msc-data-science/MSc-Dissertation_Composed-Image-Retrieval-in-Fashion.pdf) | MSc Data Science, Edinburgh | Dissertation, in collaboration with [Moonsift](https://www.moonsift.com/guides/composed-image-retrieval) | Aug 2024 |
 | [Realistic Sketch to Image Synthesis using RePainting-based Diffusion Model](edinburgh-msc-data-science/Sketch-to-Image-Synthesis_RePainting-Diffusion.pdf) | MSc Data Science, Edinburgh | Group project report | Mar 2024 |
 | [Personalized Recommender Systems under Artificial Intelligence Breakthrough](edinburgh-msc-data-science/Literature-Review_Personalized-Recommender-Systems.pdf) | MSc Data Science, Edinburgh | Literature review | Jan 2024 |
 | [Modelling and Control of Bidirectional DC-DC Converters for Electric Vehicles](leeds-beng-electronic-engineering/Final-Year-Report_Bidirectional-DC-DC-Converters-for-EVs.pdf) | BEng Electronic & Electrical Engineering, Leeds | Final year project | 2022 |
@@ -15,6 +15,8 @@ Selected papers by **Chen Jing (Toby) Wong** from the MSc Data Science at the Un
 
 ### Composed Image Retrieval in Fashion Using CLIP-based Multimodal Fusion
 *MSc dissertation, School of Informatics, 2024 · 54 pages*
+
+> **Industry collaboration with [Moonsift](https://www.moonsift.com).** This research was carried out with Moonsift and is published on the company website: [Fashion Search using Composed Image Retrieval (CIR)](https://www.moonsift.com/guides/composed-image-retrieval).
 
 Composed Image Retrieval (CIR) retrieves a target image from a query made of a reference image and a text modification. The dissertation runs an ablation study of state-of-the-art CIR methods to isolate which components actually drive performance. It compares linear and non-linear multimodal fusion of CLIP image and text features, and tests a two-stage training scheme. On the FashionIQ and Shoes benchmarks, two-stage training on top of the fusion strategies gives a significant gain in retrieval accuracy.
 
