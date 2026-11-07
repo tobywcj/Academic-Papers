@@ -7,7 +7,7 @@ Selected papers by **Chen Jing (Toby) Wong** from the MSc Data Science at the Un
 | [Composed Image Retrieval in Fashion Using CLIP-based Multimodal Fusion](edinburgh-msc-data-science/MSc-Dissertation_Composed-Image-Retrieval-in-Fashion.pdf) | MSc Data Science, Edinburgh | Dissertation | Aug 2024 |
 | [Realistic Sketch to Image Synthesis using RePainting-based Diffusion Model](edinburgh-msc-data-science/Sketch-to-Image-Synthesis_RePainting-Diffusion.pdf) | MSc Data Science, Edinburgh | Group project report | Mar 2024 |
 | [Personalized Recommender Systems under Artificial Intelligence Breakthrough](edinburgh-msc-data-science/Literature-Review_Personalized-Recommender-Systems.pdf) | MSc Data Science, Edinburgh | Literature review | Jan 2024 |
-| [Modelling and Control of Bidirectional DC-DC Converters for Electric Vehicles](leeds-beng-electronic-engineering/Final-Year-Report_Bidirectional-DC-DC-Converters-for-EVs.docx) | BEng Electronic & Electrical Engineering, Leeds | Final year project | 2022 |
+| [Modelling and Control of Bidirectional DC-DC Converters for Electric Vehicles](leeds-beng-electronic-engineering/Final-Year-Report_Bidirectional-DC-DC-Converters-for-EVs.pdf) | BEng Electronic & Electrical Engineering, Leeds | Final year project | 2022 |
 
 ---
 
@@ -39,7 +39,7 @@ A critical review of how AI has changed recommender systems, focused on data spa
 ## University of Leeds: BEng Electronic & Electrical Engineering
 
 ### Modelling and Control of Bidirectional DC-DC Converters for Electric Vehicles
-*Final year project report, 2022 · Word document (download to view)*
+*Final year project report, 2022 · 72 pages*
 
 Design and simulation, in MATLAB/Simulink, of a non-isolated half-bridge bidirectional DC-DC converter linking an EV battery to the high-voltage DC bus. The project covers:
 
